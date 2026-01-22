@@ -3,8 +3,8 @@
 </p>
 
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> My name is Poorijak Russamee
-<p>Full-Stack Developer Intern | Applied Computer Science</p>
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> My name is Poorijak Russamee
+### <p>Full-Stack Developer Intern | UX/UI Designer<p>
 =============================================================================================
 
 
