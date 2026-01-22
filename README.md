@@ -5,7 +5,7 @@
 
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> My name is Best
 <p>Full-Stack Developer Intern | Applied Computer Science</p>
-=======================================================================================================
+=============================================================================================
 
 
 A third-year student in Applied Computer Science and Multimedia with experience in full-stack web application development. Able to handle the full development process, including system design, UI/UX design, development with modern frameworks, and deployment using cloud services. Committed to writing clean, secure code and delivering a reliable and user-friendly web application
@@ -15,7 +15,7 @@ A third-year student in Applied Computer Science and Multimedia with experience 
 * 🚀  I'm currently working on [Borrow-Cmm](http://github.com/poorijak/Borrow-Cmm)
 * 🧠  I'm currently learning Nest.js, Docker, MongoDB, Go, Hono.js
 
-### Tech Stack
+### 💻 Tech Stack
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFF)
