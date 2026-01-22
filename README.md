@@ -5,7 +5,8 @@
 
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> My name is Best
 <p>Full-Stack Developer Intern | Applied Computer Science</p>
-=============================================================================================================================
+=======================================================================================================
+
 
 A third-year student in Applied Computer Science and Multimedia with experience in full-stack web application development. Able to handle the full development process, including system design, UI/UX design, development with modern frameworks, and deployment using cloud services. Committed to writing clean, secure code and delivering a reliable and user-friendly web application
 
