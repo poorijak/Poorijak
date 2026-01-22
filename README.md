@@ -13,7 +13,7 @@ A third-year student in Applied Computer Science and Multimedia with experience 
 * 🖥️  See my portfolio at [Poorijak-Portfolio](http://graceful-spot-138228.framer.app/)
 * ✉️  You can contact me at [poorijak35@gmail.com](mailto:poorijak35@gmail.com)
 * 🚀  I'm currently working on [Borrow-Cmm](http://github.com/poorijak/Borrow-Cmm)
-* 🧠  I'm currently learning Nest.js, Docker, MongoDB, Go, Hono.js
+* 🧠  I'm currently learning Next.js, Nest.js, Docker, MongoDB, Go, Hono.js, flutter
 
 ### 💻 Tech Stack
 
