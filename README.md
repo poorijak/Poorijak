@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtjZDl0c2EyNnI5enc0dmg5aThvdW55ejlobG14YjYxemxjNnd4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TiRfN8fgoaJlGI9pbn/giphy.gif" alt="banner" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtjZDl0c2EyNnI5enc0dmg5aThvdW55ejlobG14YjYxemxjNnd4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TiRfN8fgoaJlGI9pbn/giphy.gif" alt="banner" width="250" />
 </p>
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Best
-<p align="center">Full-Stack Developer Intern | Applied Computer Science</p>
+<p>Full-Stack Developer Intern | Applied Computer Science</p>
 =============================================================================================================================
 
 A third-year student in Applied Computer Science and Multimedia with experience in full-stack web application development. Able to handle the full development process, including system design, UI/UX design, development with modern frameworks, and deployment using cloud services. Committed to writing clean, secure code and delivering a reliable and user-friendly web application
