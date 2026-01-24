@@ -30,9 +30,9 @@ A third-year student in Applied Computer Science and Multimedia with experience 
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=FFF)
 
 #### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=FFF)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFF)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFF)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=FFF)
 ![Hono](https://img.shields.io/badge/Hono-000000?style=for-the-badge&labelColor=000000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFF)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=FFF)
